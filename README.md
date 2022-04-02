@@ -12,3 +12,5 @@ The application should:
 - test the transfer speed of a block of data, allocating and deallocating memory
 - test the execution speed of an encryption algorithm
 - test the multicore by a multithread algorithm
+
+The used files from the plotting library are taken from: https://github.com/InductiveComputerScience/pbPlots/tree/v0.1.7.2/Cpp
